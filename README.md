@@ -11,6 +11,7 @@
 - ### [related books](https://beliavsky.github.io/Fortran-related-books/)
    books with Fortran code, other than textbooks
 - ### [videos](https://fortranwiki.org/fortran/show/Videos)
-   from Fortran Wiki  
+   from Fortran Wiki
+- ### [standards](https://j3-fortran.org/)  
 - ### [tips](https://zmoon.github.io/FortranTipBrowser/)
    from X/Twitter [@fortrantip](https://x.com/FortranTip). Codes are [here](https://github.com/Beliavsky/FortranTip).
