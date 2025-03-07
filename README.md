@@ -3,9 +3,9 @@
 - ### [tools](https://beliavsky.github.io/Fortran-Tools/)
    compilers, preprocessors, formatters, static analyzers, transpilers, IDEs, build systems<br>
 - ### [packages](https://beliavsky.github.io/Fortran-packages-list/)
-   projects that work with the [Fortran Package Manager](https://fpm.fortran-lang.org/), by topic
+   about 400 projects that work with the [Fortran Package Manager](https://fpm.fortran-lang.org/), listed by topic
 - ### [codes](https://beliavsky.github.io/Fortran-code-on-GitHub/)
-   Fortran codes on GitHub, by topic
+   Fortran codes on GitHub, listed by topic
 - ### [books and tutorials](https://fortran-lang.org/learn/)
    from fortran-lang.org 
 - ### [related books](https://beliavsky.github.io/Fortran-related-books/)
